@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1444858019854.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "83A91EAA",
+    "lastKnownWriteTime" : 4994576937707925364,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "m8axvroemo",
+        "caption" : "patient",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=patient&cache_key=m8axvroemo",
+        "displayedObservations" : "163065",
+        "environment" : "",
+        "object" : "patient",
+        "totalObservations" : "163065",
+        "variables" : "12"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,17 @@
+{
+    "contents" : "# HealthCare_DataAnalysis\n\nUses R Language to analyse data and Shiny for user interface.\n\n",
+    "created" : 1449024864530.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "175507935",
+    "id" : "BB1863C0",
+    "lastKnownWriteTime" : 1444850445,
+    "path" : "C:/Users/Aruna/Desktop/CMPE 274/HealthCare_DataAnalysis-master/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "markdown"
+}
